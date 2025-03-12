@@ -22,3 +22,6 @@ submission/
 
 # Ignore macOS metadata.
 .DS_Store
+
+# Ignore VS Code preferences
+.vscode/
